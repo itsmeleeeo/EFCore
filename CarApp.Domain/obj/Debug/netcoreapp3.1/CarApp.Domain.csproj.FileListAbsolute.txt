@@ -1,0 +1,10 @@
+C:\Users\leeeo\Documents\C# Apps\WebApp\CarApp.Domain\bin\Debug\netcoreapp3.1\CarApp.Domain.deps.json
+C:\Users\leeeo\Documents\C# Apps\WebApp\CarApp.Domain\bin\Debug\netcoreapp3.1\CarApp.Domain.dll
+C:\Users\leeeo\Documents\C# Apps\WebApp\CarApp.Domain\bin\Debug\netcoreapp3.1\CarApp.Domain.pdb
+C:\Users\leeeo\Documents\C# Apps\WebApp\CarApp.Domain\obj\Debug\netcoreapp3.1\CarApp.Domain.csproj.AssemblyReference.cache
+C:\Users\leeeo\Documents\C# Apps\WebApp\CarApp.Domain\obj\Debug\netcoreapp3.1\CarApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leeeo\Documents\C# Apps\WebApp\CarApp.Domain\obj\Debug\netcoreapp3.1\CarApp.Domain.AssemblyInfoInputs.cache
+C:\Users\leeeo\Documents\C# Apps\WebApp\CarApp.Domain\obj\Debug\netcoreapp3.1\CarApp.Domain.AssemblyInfo.cs
+C:\Users\leeeo\Documents\C# Apps\WebApp\CarApp.Domain\obj\Debug\netcoreapp3.1\CarApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\leeeo\Documents\C# Apps\WebApp\CarApp.Domain\obj\Debug\netcoreapp3.1\CarApp.Domain.dll
+C:\Users\leeeo\Documents\C# Apps\WebApp\CarApp.Domain\obj\Debug\netcoreapp3.1\CarApp.Domain.pdb

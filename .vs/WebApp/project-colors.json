@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "59f14d7c-76f1-4bd0-acd5-8729f28e6689": {
+      "ProjectGuid": "59f14d7c-76f1-4bd0-acd5-8729f28e6689",
+      "DisplayName": "CarApp.Data",
+      "ColorIndex": 0
+    },
+    "579ec27c-8220-4213-ae63-af265628c2f9": {
+      "ProjectGuid": "579ec27c-8220-4213-ae63-af265628c2f9",
+      "DisplayName": "CarApp.Domain",
+      "ColorIndex": 1
+    },
+    "b40bdaa1-a234-4074-890f-d61a149db5d1": {
+      "ProjectGuid": "b40bdaa1-a234-4074-890f-d61a149db5d1",
+      "DisplayName": "ConsoleApp",
+      "ColorIndex": 2
+    },
+    "335747a5-7362-4be3-bb32-f1fb58eb89a7": {
+      "ProjectGuid": "335747a5-7362-4be3-bb32-f1fb58eb89a7",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
