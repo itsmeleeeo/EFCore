@@ -21,7 +21,7 @@ namespace CarApp.Data
             {
                 optionsBuilder
                     .UseLoggerFactory(ConsoleLoggerFactory).EnableSensitiveDataLogging()
-                    .UseSqlServer("Data Source = (localdb)\\MSQLLocalDB; Initial Catalog = CarAppData");
+                    .UseSqlServer("Server=(localdb)\\mssqllocaldb;Database=CarAppData;Trusted_Connection=True;MultipleActiveResultSets=true");
             }
         }
     }

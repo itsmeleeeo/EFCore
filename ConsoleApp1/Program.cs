@@ -46,5 +46,10 @@ namespace ConsoleApp1
                 context.cars.AddRange(cars);
                 context.SaveChanges();
             }
-        }
+
+            private static void Write(string text)
+            {
+                Console.WriteLine(text);
+            }
     }
+}
